@@ -1,5 +1,6 @@
-a = int(input())
-b = int(input())
+def add(a,b):
+	self.a = int(input())
+	self.b = int(input())
 
-sum = a+b
-print(sum)
+	sum = a+b
+	print(sum)
