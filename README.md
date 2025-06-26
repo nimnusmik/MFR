@@ -1,2 +1,2 @@
 # MFR
-my frist repository for git prectice
+my frist repository for git practice
